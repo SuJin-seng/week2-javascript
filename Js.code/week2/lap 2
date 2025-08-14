@@ -1,0 +1,5 @@
+function sayHello(greetUser) {
+    return console.log("Hello World");
+} 
+
+sayHello("greeting");
